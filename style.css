@@ -1,0 +1,42 @@
+body {
+    background-color: #fff;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    /*background-size: cover; */
+    background-size: cover;
+
+}
+.bg-img{
+    color: blue;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+}
+
+h5 {
+    color: red;
+}
+
+.testing{
+    color: blueviolet;
+
+}
+#testing-para1 {
+    font-size: 25px;
+}
+
+.font-apply {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.tranformation-apply{
+    text-transform: uppercase;
+}
+
+.decoration-apply{
+    text-decoration: none;
+}
+
