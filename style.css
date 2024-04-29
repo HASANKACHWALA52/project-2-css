@@ -60,13 +60,6 @@ background-color: blue;
 
 .aBC{
 
-
-             
-      
-
-      
-
-           
     height: 90%;
     width: 90%;
 }
@@ -77,8 +70,38 @@ background-color: blue;
     text-align: center;
     
 }
+
 .b{ font-size: 32px;
     color: blueviolet;
     text-align: center;
 
+}
+.a{
+    color: blue;
+    line-height: 22px;
+    word-spacing: 55px;
+    letter-spacing: 40px;
+    text-align: center;
+}
+
+.c{
+    font-size: 33px;
+    color: brown;
+}
+.d{
+    border: 3px solid gold;
+    margin-top: 90px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+    margin-left: 90px;
+    padding-top: 160px;
+    padding-right:10px;
+    padding-bottom: 160px;
+    padding-left: 10px;
+    background-size: 100% 100%;
+
+}
+.e{
+    height:55%;
+    width: 90%;
 }
