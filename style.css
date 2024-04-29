@@ -1,5 +1,5 @@
 body {
-    background-color: #fff;
+    background-color: yellow;
     background-repeat: no-repeat;
     /* background-position: center; */
     /*background-size: cover; */
@@ -7,6 +7,7 @@ body {
 
 }
 .bg-img{
+    background-image: url(assest/web.jpg);
     color: blue;
     height: 250px;
     background-repeat: no-repeat;
@@ -39,4 +40,45 @@ h5 {
 .decoration-apply{
     text-decoration: none;
 }
+.image{
+    color:red;
+    border: 3px solid gold;
+    margin-top: 90px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+    margin-left: 90px;
+    padding-top: 160px;
+    padding-right:10px;
+    padding-bottom: 160px;
+    padding-left: 10px;
+background-color: blue;
+    /* background-image: url(assest/web.jpg); */
+    background-size: 100% 100%;
+    
+    
+}
 
+.aBC{
+
+
+             
+      
+
+      
+
+           
+    height: 90%;
+    width: 90%;
+}
+.hasan{color:green;
+    line-height: 22px;
+    word-spacing: 52px;
+    letter-spacing: 40px;
+    text-align: center;
+    
+}
+.b{ font-size: 32px;
+    color: blueviolet;
+    text-align: center;
+
+}
