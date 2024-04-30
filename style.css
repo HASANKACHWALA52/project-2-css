@@ -8,11 +8,13 @@ body {
 }
 .bg-img{
     background-image: url(assest/web.jpg);
+opacity: 0.8;
     color: blue;
     height: 250px;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 200px;
+    
 }
 
 h5 {
@@ -62,6 +64,7 @@ background-color: blue;
 
     height: 90%;
     width: 90%;
+
 }
 .hasan{color:green;
     line-height: 22px;
@@ -100,7 +103,7 @@ background-color: blue;
     padding-left: 10px;
     background-size: 100% 100%;*/
 
-}
+
 /*.e{
     height:55%;
     width: 90%;
@@ -111,4 +114,33 @@ background-color: blue;
 font-size:xx-large;
     text-decoration: underline;
     color: purple;
+}
+
+.border-property{
+     border-style:dotted ;
+     border-radius: 30px;
+     border-color: black;
+
+}
+
+.border{
+
+    border-style: solid;
+    border-radius: 30px;
+    border-color: red;
+}
+
+.dd{ 
+    list-style-type: circle;
+    list-style-position: outside;
+}
+
+.bb{
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+.cc{
+    list-style-type: none;
+    list-style-position: outside;
 }
